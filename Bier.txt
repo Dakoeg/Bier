@@ -1,5 +1,10 @@
-1. Augustiner
-2. Chiemseer
-3. Tegernseer # Fragwürdige Regionalpolitik
-4. Paulaner
-5. Hacker # Kopfweh
+1.	Karg	
+2.	Augustiner Weizen
+3.	Unertl
+4.	Schneider
+5. 	Franziskana
+6. 	Augustiner
+7. 	Chiemseer
+8. 	Tegernseer # Fragwürdige Regionalpolitik
+9. 	Paulaner
+10. 	Hacker # Kopfweh
