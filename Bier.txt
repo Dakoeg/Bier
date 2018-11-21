@@ -2,8 +2,8 @@
 2.	Augustiner 
 3.	Unertl
 4.	Chiemsser
-5. 	Augustiner Weizen
-6. 	Schneider
+5. 	Schneider
+6. 	Augustiner Weizen
 7. 	Tegernseer # Fragwürdige Regionalpolitik
 8. 	Hacker # Kopfweh
 9. 	Paulaner
