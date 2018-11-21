@@ -1,10 +1,1 @@
-1.	Karg	# Unangefochten 
-2.	Augustiner 
-3.	Unertl
-4.	Chiemsser
-5. 	Schneider
-6. 	Augustiner Weizen
-7. 	Tegernseer # Fragwürdige Regionalpolitik
-8. 	Hacker # Kopfweh
-9. 	Paulaner
-10. 	Chang
+Bier neu
